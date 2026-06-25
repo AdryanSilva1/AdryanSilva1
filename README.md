@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryanSilva1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-nine-pi-79.vercel.app/api?username=AdryanSilva1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanSilva1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&langs_count=10&hide=html,css,markdown,blade,scss" />
+<img height="180em" src="https://github-readme-stats-nine-pi-79.vercel.app/api/top-langs/?username=AdryanSilva1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&langs_count=10&hide=html,css,markdown,blade,scss" />
 
 <br/><br/>
 
