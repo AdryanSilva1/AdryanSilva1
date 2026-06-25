@@ -1,53 +1,50 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#16161e"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#bb9af7"/>
-      <stop offset="50%" stop-color="#7dcfff"/>
-      <stop offset="100%" stop-color="#bb9af7"/>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dcfff"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
     </linearGradient>
     <style>
-      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-      @keyframes pulse { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
-      .title-text { animation: fadeIn 2s ease-out forwards; }
-      .status-bar { animation: pulse 3s infinite ease-in-out; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes scan { 0% { transform: translateY(0); } 100% { transform: translateY(220px); } }
+      .cursor { animation: blink 1s infinite step-end; }
+      .scanline { animation: scan 4s linear infinite; }
     </style>
   </defs>
 
+  <!-- Background -->
   <rect width="900" height="220" fill="url(#bg)"/>
   
-  <g stroke="#3b3f5c" stroke-width="1.2" fill="none" opacity="0.6">
-    <path d="M0,35 H110 L130,55 H250"/>
-    <path d="M0,185 H80 L100,165 H280"/>
-    <path d="M900,35 H790 L770,55 H650"/>
-    <path d="M900,185 H820 L800,165 H620"/>
-  </g>
-  
-  <g fill="#7dcfff">
-    <circle cx="130" cy="55" r="3"/>
-    <circle cx="770" cy="55" r="3"/>
-  </g>
-  <g fill="#bb9af7">
-    <circle cx="100" cy="165" r="3"/>
-    <circle cx="800" cy="165" r="3"/>
+  <!-- Grid Tech -->
+  <g stroke="#1f2335" stroke-width="1" fill="none">
+    <path d="M0,55 H900 M0,110 H900 M0,165 H900 M225,0 V220 M450,0 V220 M675,0 V220"/>
   </g>
 
-  <rect class="status-bar" x="20" y="18" width="860" height="184" rx="6" fill="none" stroke="url(#glow)" stroke-width="1.5" opacity="0.85"/>
-  <rect x="27" y="25" width="846" height="170" rx="4" fill="none" stroke="#414868" stroke-width="0.7"/>
+  <!-- Scan Line Effect -->
+  <rect class="scanline" x="0" y="0" width="900" height="2" fill="#7dcfff" opacity="0.3"/>
+
+  <!-- Border -->
+  <rect x="10" y="10" width="880" height="200" rx="4" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.9"/>
+  <rect x="16" y="16" width="868" height="188" rx="2" fill="none" stroke="#2a2e44" stroke-width="1"/>
+
+  <!-- Terminal Header -->
+  <circle cx="32" cy="32" r="5" fill="#f7768e"/>
+  <circle cx="48" cy="32" r="5" fill="#e0af68"/>
+  <circle cx="64" cy="32" r="5" fill="#9ece6a"/>
+  <text x="868" y="36" text-anchor="end" font-family="monospace" font-size="12" fill="#565f89">[SYS] adryan_bot.init()</text>
+
+  <!-- Main Text -->
+  <text x="450" y="90" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#c0caf5" letter-spacing="2">ADRYAN SILVA SANTOS</text>
+  <text x="450" y="120" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dcfff" letter-spacing="3">&gt; DATA ENGINEERING &amp; PROCESS AUTOMATION</text>
   
-  <circle cx="44" cy="40" r="4" fill="#f7768e"/>
-  <circle cx="58" cy="40" r="4" fill="#e0af68"/>
-  <circle cx="72" cy="40" r="4" fill="#9ece6a"/>
-  <text x="858" y="44" text-anchor="end" font-family="monospace" font-size="11" fill="#565f89">adryan@dashboard:~$ online</text>
-  
-  <text class="title-text" x="450" y="100" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#c0caf5" letter-spacing="3">ADRYAN SILVA SANTOS</text>
-  <text class="title-text" x="450" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dcfff" letter-spacing="4">ANALISE DE DADOS · AUTOMACAO · TECNOLOGIA EM SAUDE</text>
-  
-  <line x1="270" y1="148" x2="630" y2="148" stroke="#414868" stroke-width="1"/>
-  <circle cx="450" cy="148" r="3" fill="#bb9af7"/>
-  
-  <text x="450" y="175" text-anchor="middle" font-family="monospace" font-size="13" fill="#a9b1d6">Python · SQL · Dashboards · Google Apps Script</text>
+  <line x1="280" y1="135" x2="620" y2="135" stroke="#414868" stroke-width="1"/>
+  <circle cx="450" cy="135" r="2" fill="#bb9af7"/>
+
+  <text x="450" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#9ece6a" letter-spacing="1">[ Python ] [ SQL ] [ BI ] [ Apps Script ]</text>
+  <text x="450" y="190" text-anchor="middle" font-family="monospace" font-size="12" fill="#565f89" letter-spacing="2">LOADING DATA PIPELINES<span class="cursor" fill="#7dcfff">_</span></text>
 </svg>
