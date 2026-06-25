@@ -9,16 +9,23 @@
       <stop offset="50%" stop-color="#7dcfff"/>
       <stop offset="100%" stop-color="#bb9af7"/>
     </linearGradient>
+    <style>
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
+      .title-text { animation: fadeIn 2s ease-out forwards; }
+      .status-bar { animation: pulse 3s infinite ease-in-out; }
+    </style>
   </defs>
 
   <rect width="900" height="220" fill="url(#bg)"/>
-
+  
   <g stroke="#3b3f5c" stroke-width="1.2" fill="none" opacity="0.6">
     <path d="M0,35 H110 L130,55 H250"/>
     <path d="M0,185 H80 L100,165 H280"/>
     <path d="M900,35 H790 L770,55 H650"/>
     <path d="M900,185 H820 L800,165 H620"/>
   </g>
+  
   <g fill="#7dcfff">
     <circle cx="130" cy="55" r="3"/>
     <circle cx="770" cy="55" r="3"/>
@@ -28,19 +35,19 @@
     <circle cx="800" cy="165" r="3"/>
   </g>
 
-  <rect x="20" y="18" width="860" height="184" rx="6" fill="none" stroke="url(#glow)" stroke-width="1.5" opacity="0.85"/>
+  <rect class="status-bar" x="20" y="18" width="860" height="184" rx="6" fill="none" stroke="url(#glow)" stroke-width="1.5" opacity="0.85"/>
   <rect x="27" y="25" width="846" height="170" rx="4" fill="none" stroke="#414868" stroke-width="0.7"/>
-
+  
   <circle cx="44" cy="40" r="4" fill="#f7768e"/>
   <circle cx="58" cy="40" r="4" fill="#e0af68"/>
   <circle cx="72" cy="40" r="4" fill="#9ece6a"/>
   <text x="858" y="44" text-anchor="end" font-family="monospace" font-size="11" fill="#565f89">adryan@dashboard:~$ online</text>
-
-  <text x="450" y="100" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#c0caf5" letter-spacing="3">ADRYAN SILVA SANTOS</text>
-  <text x="450" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dcfff" letter-spacing="4">ANALISE DE DADOS · AUTOMACAO · TECNOLOGIA EM SAUDE</text>
-
+  
+  <text class="title-text" x="450" y="100" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#c0caf5" letter-spacing="3">ADRYAN SILVA SANTOS</text>
+  <text class="title-text" x="450" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dcfff" letter-spacing="4">ANALISE DE DADOS · AUTOMACAO · TECNOLOGIA EM SAUDE</text>
+  
   <line x1="270" y1="148" x2="630" y2="148" stroke="#414868" stroke-width="1"/>
   <circle cx="450" cy="148" r="3" fill="#bb9af7"/>
-
+  
   <text x="450" y="175" text-anchor="middle" font-family="monospace" font-size="13" fill="#a9b1d6">Python · SQL · Dashboards · Google Apps Script</text>
 </svg>
