@@ -4,67 +4,67 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdryanSilva1&label=VISITS&color=7dcfff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/AdryanSilva1?label=FOLLOWERS&style=for-the-badge&color=bb9af7" />
+<img src="https://komarev.com/ghpvc/?username=AdryanSilva1&label=VISITS&color=6CB2FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/AdryanSilva1?label=FOLLOWERS&style=for-the-badge&color=2F80FF" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1800&color=7DCFFF&center=true&vCenter=true&width=900&lines=Data+Analysis;Process+Automation;Dashboards+%26+BI;Google+Sheets+%2B+Apps+Script;Python+for+Productivity;Technology+Applied+to+Healthcare" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1800&color=6CB2FF&center=true&vCenter=true&width=900&lines=Data+Analysis;Process+Automation;Dashboards+%26+BI;Google+Sheets+%2B+Apps+Script;Python+for+Productivity;Technology+Applied+to+Healthcare" />
 
 </div>
 
 ---
 
-## `WHOAMI`
+<h2 align="center"><code>WHOAMI</code></h2>
 
 ```bash
 > INITIALIZING SYSTEM...
 [OK] Loading profile: Adryan Silva Santos
-[OK] Role: Data Analyst & Automation Engineer
+[OK] Role: Data & Automation Analyst
+[OK] Base: Instituto Maria Schmitt (IMAS) — healthcare
+[OK] Education: Systems Analysis & Development @ Infnet
 [OK] Objective: Transforming manual processes into automated, data-driven systems
 [INFO] Specializing in healthcare data operations and business intelligence
+[INFO] Next quest: Data Engineering
 ```
 
-## `TECH ARSENAL`
+<h2 align="center"><code>TECH ARSENAL</code></h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,docker,git,github,vscode&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/SQL-7DCFFF?style=for-the-badge&logo=postgresql&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Dashboards-BB9AF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-9ECE6A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-0A1530?style=for-the-badge&logo=postgresql&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Pandas-0A1530?style=for-the-badge&logo=pandas&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Google%20Sheets-0A1530?style=for-the-badge&logo=googlesheets&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Excel-0A1530?style=for-the-badge&logo=microsoftexcel&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Apps%20Script-0A1530?style=for-the-badge&logo=google&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Dashboards-0A1530?style=for-the-badge&logo=googleanalytics&logoColor=6CB2FF" />
+<img src="https://img.shields.io/badge/Automation-0A1530?style=for-the-badge&logo=githubactions&logoColor=6CB2FF" />
 
 </div>
 
-## `CORE METRICS & DATA PIPELINES`
+<h2 align="center"><code>GITHUB METRICS</code></h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-nine-pi-79.vercel.app/api?username=AdryanSilva1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats-nine-pi-79.vercel.app/api/top-langs/?username=AdryanSilva1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&langs_count=10&hide=html,css,markdown,blade,scss" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AdryanSilva1&theme=tokyonight&hide_border=true&background=0d1117&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideLabels=c0caf5&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdryanSilva1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&icon_color=2F80FF&text_color=D6E2F5&include_all_commits=true&count_private=true&card_width=495&hide_rank=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AdryanSilva1&theme=tokyonight&hide_border=true&background=0A1530&ring=6CB2FF&fire=2F80FF&currStreakLabel=6CB2FF&sideLabels=D6E2F5&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdryanSilva1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&text_color=D6E2F5&langs_count=10&hide=html,css,markdown,blade,scss&card_width=990" />
 
 </div>
 
-## `ACTIVITY LOG`
+<h2 align="center"><code>ACTIVITY LOG</code></h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdryanSilva1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dcfff&line=bb9af7&point=c0caf5&area=true" width="100%" />
+<img src="https://github-readme-activity-graph-opal-seven.vercel.app/graph?username=AdryanSilva1&theme=tokyo-night&hide_border=true&bg_color=0A1530&color=6CB2FF&line=2F80FF&point=D6E2F5&area=true" width="100%" />
 
 </div>
 
-## `OPERATIONAL MODULES`
+<h2 align="center"><code>OPERATIONAL MODULES</code></h2>
 
 <table align="center">
 <tr>
@@ -72,99 +72,93 @@
 
 **🧠 Data Engine**
 <br/>
-ETL Processes
+Scheduling data pipeline
 <br/>
-Data Cleaning
+Divergence detection
 <br/>
-Relational DBs
+Automated reports
 
 </td>
 <td align="center" width="25%">
 
 **⚙️ Automation Bot**
 <br/>
-Python Scripts
+Python + Apps Script
 <br/>
-Triggers & Macros
+Hospital routines
 <br/>
-Apps Script API
+Sheets workflows
 
 </td>
 <td align="center" width="25%">
 
 **📈 BI Interface**
 <br/>
-Dashboard Rendering
+Satisfaction dashboards
 <br/>
-KPI Monitoring
+Budget tracking
 <br/>
-Data Viz
+Supply price monitoring
 
 </td>
 <td align="center" width="25%">
 
-**🏥 Health Ops**
+**🏗️ Backend Build**
 <br/>
-System Integration
+Asset management system
 <br/>
-Workflow Logic
+~70 hospital units
 <br/>
-Process Efficiency
+FastAPI · PostgreSQL · Docker
 
 </td>
 </tr>
 </table>
 
-## `DEPLOYED REPOSITORIES`
+<p align="center"><sub>Built in a professional environment at IMAS — code and data are internal.</sub></p>
+
+<h2 align="center"><code>CURRENT QUESTS</code></h2>
+
+```bash
+> LOADING CURRENT QUESTS...
+[RUNNING] Asset management system — FastAPI · PostgreSQL · Docker
+[RUNNING] Studying Data Engineering — pipelines & databases
+[NEXT]    SUS Hospital Analytics — expand from Santa Catarina to all of Brazil
+```
+
+<h2 align="center"><code>FEATURED PROJECTS</code></h2>
 
 <div align="center">
 
-<a href="https://github.com/AdryanSilva1/github.com-adryan-silva-sus-hospital-analytics-sc">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdryanSilva1&repo=github.com-adryan-silva-sus-hospital-analytics-sc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" />
-</a>
-
-<a href="https://github.com/AdryanSilva1/automacao-relatorios-vendas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdryanSilva1&repo=automacao-relatorios-vendas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" />
-</a>
-
-<a href="https://github.com/AdryanSilva1/python-estudos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdryanSilva1&repo=python-estudos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" />
-</a>
-
-<a href="https://github.com/AdryanSilva1/dio-sistema-bancario">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdryanSilva1&repo=dio-sistema-bancario&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" />
-</a>
+<a href="https://github.com/AdryanSilva1/sus-hospital-analytics"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AdryanSilva1&repo=sus-hospital-analytics&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&text_color=D6E2F5&icon_color=2F80FF&border_color=1F3460" width="49%" /></a>
+<a href="https://github.com/AdryanSilva1/ads-infnet"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AdryanSilva1&repo=ads-infnet&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&text_color=D6E2F5&icon_color=2F80FF&border_color=1F3460" width="49%" /></a>
+<a href="https://github.com/AdryanSilva1/automacao-relatorios-vendas"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AdryanSilva1&repo=automacao-relatorios-vendas&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&text_color=D6E2F5&icon_color=2F80FF&border_color=1F3460" width="49%" /></a>
+<a href="https://github.com/AdryanSilva1/python-estudos"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AdryanSilva1&repo=python-estudos&theme=tokyonight&hide_border=true&bg_color=0A1530&title_color=6CB2FF&text_color=D6E2F5&icon_color=2F80FF&border_color=1F3460" width="49%" /></a>
 
 </div>
 
-## `CONTRIBUTION GRID`
+<h2 align="center"><code>CONTRIBUTION GRID</code></h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdryanSilva1/AdryanSilva1/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdryanSilva1/AdryanSilva1/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdryanSilva1/AdryanSilva1/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/AdryanSilva1/AdryanSilva1/output/pacman-contribution-graph-dark.svg" alt="Pac-Man comendo o gráfico de contribuições" width="100%" />
+</picture>
 
 </div>
 
-## `CERTIFICATIONS DATABASE`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CC50-Harvard-7DCFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-SENAI%2FSC-BB9AF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Training-CIEE-9ECE6A?style=for-the-badge" />
-
-</div>
-
-## `ESTABLISH CONNECTION`
+<h2 align="center"><code>ESTABLISH CONNECTION</code></h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adryan-silva-santos">
-<img src="https://img.shields.io/badge/LinkedIn-NETWORK-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/LinkedIn-NETWORK-6CB2FF?style=for-the-badge&logo=linkedin&logoColor=0A1530" />
 </a>
 
 <a href="mailto:adryandasilvasantos12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-SEND_MSG-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Gmail-SEND_MSG-2F80FF?style=for-the-badge&logo=gmail&logoColor=0A1530" />
 </a>
 
 </div>
@@ -172,9 +166,9 @@ Process Efficiency
 <div align="center">
 
 ```bash
-[SYSTEM] Execution successful. Transforming data into actionable solutions...
+[SYSTEM] Building one project at a time...
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117,50:1a1b27,100:7dcfff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0A1530,50:0F2A63,100:6CB2FF" width="100%" />
 
 </div>
